@@ -20,7 +20,6 @@
     "@mercuryworkshop/bare-mux": "latest",
     "@mercuryworkshop/epoxy-transport": "latest",
     "@mercuryworkshop/libcurl-transport": "latest",
-    "@titaniumnetwork-dev/ultraviolet": "latest",
     "axios": "latest",
     "cache": "latest",
     "compression": "latest",
